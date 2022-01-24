@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# EatKano
+# EatChineseBook
 
 _🦌 网页小游戏 🥛_
 
@@ -12,13 +12,13 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：吃掉语文书
 
-浏览量超10,000,000+
+浏览量超1+
 
-线上版本:https://xingye.me/game/eatkano/index.php
+原作者线上版本:https://xingye.me/game/eatkano/index.php
 
-Github Page:https://arcxingye.github.io/EatKano/index.html
+原作者Github Page:https://arcxingye.github.io/EatKano/index.html
 
 ## 可选功能
 
