@@ -2,8 +2,5 @@
 
 ##     目前有小游戏:
 
-```
-吃掉语文书
-
-吃掉kmh
-```
+- [吃掉语文书](https://names233.github.io/EatingPeople/EatChineseBook/)
+- [吃掉kmh](https://names233.github.io/EatingPeople/EatKMH/)
